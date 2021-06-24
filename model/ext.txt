@@ -1,0 +1,188 @@
+[1, 300] Loss: 0.60995
+[1, 600] Loss: 0.48504
+[1, 900] Loss: 0.30464
+Train epoch: 2, Train size: 1029 
+Loss: 0.43198, 	Accuracy: 80.37%
+
+Test size = 181
+Average loss: 0.42599, 	Accuracy: 83.98%
+
+[2, 300] Loss: 0.21443
+[2, 600] Loss: 0.18583
+[2, 900] Loss: 0.08365
+Train epoch: 3, Train size: 1029 
+Loss: 0.15403, 	Accuracy: 94.36%
+
+Test size = 181
+Average loss: 0.22698, 	Accuracy: 91.71%
+
+[3, 300] Loss: 0.07075
+[3, 600] Loss: 0.13718
+[3, 900] Loss: 0.05666
+Train epoch: 4, Train size: 1029 
+Loss: 0.10298, 	Accuracy: 96.70%
+
+Test size = 181
+Average loss: 0.24501, 	Accuracy: 92.82%
+
+[4, 300] Loss: 0.06561
+[4, 600] Loss: 0.04105
+[4, 900] Loss: 0.08961
+Train epoch: 5, Train size: 1029 
+Loss: 0.06307, 	Accuracy: 97.57%
+
+Test size = 181
+Average loss: 0.15660, 	Accuracy: 95.58%
+
+[5, 300] Loss: 0.01836
+[5, 600] Loss: 0.04121
+[5, 900] Loss: 0.00241
+Train epoch: 6, Train size: 1029 
+Loss: 0.02459, 	Accuracy: 99.32%
+
+Test size = 181
+Average loss: 0.59952, 	Accuracy: 83.98%
+
+[6, 300] Loss: 0.00210
+[6, 600] Loss: 0.02506
+[6, 900] Loss: 0.22340
+Train epoch: 7, Train size: 1029 
+Loss: 0.08301, 	Accuracy: 96.89%
+
+Test size = 181
+Average loss: 0.30318, 	Accuracy: 88.40%
+
+[7, 300] Loss: 0.03552
+[7, 600] Loss: 0.06701
+[7, 900] Loss: 0.08633
+Train epoch: 8, Train size: 1029 
+Loss: 0.06106, 	Accuracy: 97.96%
+
+Test size = 181
+Average loss: 0.54401, 	Accuracy: 83.98%
+
+[8, 300] Loss: 0.04106
+[8, 600] Loss: 0.01265
+[8, 900] Loss: 0.00203
+Train epoch: 9, Train size: 1029 
+Loss: 0.01641, 	Accuracy: 99.42%
+
+Test size = 181
+Average loss: 0.53186, 	Accuracy: 91.71%
+
+[9, 300] Loss: 0.00025
+[9, 600] Loss: 0.00012
+[9, 900] Loss: 0.00012
+Train epoch: 10, Train size: 1029 
+Loss: 0.00015, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.56118, 	Accuracy: 90.61%
+
+[10, 300] Loss: 0.00006
+[10, 600] Loss: 0.00010
+[10, 900] Loss: 0.00005
+Train epoch: 11, Train size: 1029 
+Loss: 0.00007, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.61704, 	Accuracy: 92.27%
+
+[11, 300] Loss: 0.00004
+[11, 600] Loss: 0.00005
+[11, 900] Loss: 0.00006
+Train epoch: 12, Train size: 1029 
+Loss: 0.00005, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.49953, 	Accuracy: 93.37%
+
+[12, 300] Loss: 0.00007
+[12, 600] Loss: 0.20258
+[12, 900] Loss: 0.12565
+Train epoch: 13, Train size: 1029 
+Loss: 0.10795, 	Accuracy: 96.21%
+
+Test size = 181
+Average loss: 0.26529, 	Accuracy: 88.40%
+
+[13, 300] Loss: 0.05592
+[13, 600] Loss: 0.05599
+[13, 900] Loss: 0.14747
+Train epoch: 14, Train size: 1029 
+Loss: 0.07817, 	Accuracy: 96.99%
+
+Test size = 181
+Average loss: 0.26294, 	Accuracy: 91.16%
+
+[14, 300] Loss: 0.02958
+[14, 600] Loss: 0.01361
+[14, 900] Loss: 0.00373
+Train epoch: 15, Train size: 1029 
+Loss: 0.01434, 	Accuracy: 99.42%
+
+Test size = 181
+Average loss: 0.43516, 	Accuracy: 90.61%
+
+[15, 300] Loss: 0.05920
+[15, 600] Loss: 0.03536
+[15, 900] Loss: 0.00448
+Train epoch: 16, Train size: 1029 
+Loss: 0.03265, 	Accuracy: 99.22%
+
+Test size = 181
+Average loss: 0.51198, 	Accuracy: 90.06%
+
+[16, 300] Loss: 0.00237
+[16, 600] Loss: 0.04094
+[16, 900] Loss: 0.01386
+Train epoch: 17, Train size: 1029 
+Loss: 0.01676, 	Accuracy: 99.61%
+
+Test size = 181
+Average loss: 0.32959, 	Accuracy: 92.82%
+
+[17, 300] Loss: 0.00082
+[17, 600] Loss: 0.00018
+[17, 900] Loss: 0.00093
+Train epoch: 18, Train size: 1029 
+Loss: 0.00057, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.58178, 	Accuracy: 91.16%
+
+[18, 300] Loss: 0.00007
+[18, 600] Loss: 0.00002
+[18, 900] Loss: 0.00002
+Train epoch: 19, Train size: 1029 
+Loss: 0.00004, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.80412, 	Accuracy: 87.29%
+
+[19, 300] Loss: 0.00003
+[19, 600] Loss: 0.00004
+[19, 900] Loss: 0.00003
+Train epoch: 20, Train size: 1029 
+Loss: 0.00003, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.50137, 	Accuracy: 93.37%
+
+[20, 300] Loss: 0.00003
+[20, 600] Loss: 0.00003
+[20, 900] Loss: 0.00003
+Train epoch: 21, Train size: 1029 
+Loss: 0.00003, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.56090, 	Accuracy: 91.16%
+
+****************************************************************************************************
+Total train accuracy =  0.977016520894072
+Total test accuracy =  0.9022099447513809
+Total train loss =  0.05939663109428837
+Total test loss =  0.44820072149794044
+****************************************************************************************************
+
+Process finished with exit code 0
