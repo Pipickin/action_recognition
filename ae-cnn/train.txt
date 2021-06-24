@@ -1,0 +1,104 @@
+[1, 300] Loss: 0.53216
+[1, 600] Loss: 0.31676
+[1, 900] Loss: 0.23302
+Train epoch: 1, Train size: 1029 
+Loss: 0.32348, 	Accuracy: 86.20%
+
+Test size = 181
+Average loss: 0.20131, 	Accuracy: 93.92%
+
+[2, 300] Loss: 0.03997
+[2, 600] Loss: 0.01224
+[2, 900] Loss: 0.04795
+Train epoch: 2, Train size: 1029 
+Loss: 0.04064, 	Accuracy: 98.54%
+
+Test size = 181
+Average loss: 0.17359, 	Accuracy: 93.37%
+
+[3, 300] Loss: 0.01148
+[3, 600] Loss: 0.00669
+[3, 900] Loss: 0.01159
+Train epoch: 3, Train size: 1029 
+Loss: 0.01426, 	Accuracy: 99.51%
+
+Test size = 181
+Average loss: 0.27748, 	Accuracy: 93.37%
+
+[4, 300] Loss: 0.00369
+[4, 600] Loss: 0.00057
+[4, 900] Loss: 0.00036
+Train epoch: 4, Train size: 1029 
+Loss: 0.00136, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.26061, 	Accuracy: 94.48%
+
+[5, 300] Loss: 0.00006
+[5, 600] Loss: 0.00006
+[5, 900] Loss: 0.00007
+Train epoch: 5, Train size: 1029 
+Loss: 0.00006, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.25970, 	Accuracy: 94.48%
+
+[6, 300] Loss: 0.00004
+[6, 600] Loss: 0.00006
+[6, 900] Loss: 0.00005
+Train epoch: 6, Train size: 1029 
+Loss: 0.00005, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.25765, 	Accuracy: 93.92%
+
+[7, 300] Loss: 0.00005
+[7, 600] Loss: 0.00004
+[7, 900] Loss: 0.00006
+Train epoch: 7, Train size: 1029 
+Loss: 0.00005, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.25795, 	Accuracy: 93.92%
+
+[8, 300] Loss: 0.00004
+[8, 600] Loss: 0.00005
+[8, 900] Loss: 0.00004
+Train epoch: 8, Train size: 1029 
+Loss: 0.00004, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.25586, 	Accuracy: 93.92%
+
+[9, 300] Loss: 0.00004
+[9, 600] Loss: 0.00004
+[9, 900] Loss: 0.00004
+Train epoch: 9, Train size: 1029 
+Loss: 0.00004, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.26053, 	Accuracy: 93.92%
+
+[10, 300] Loss: 0.00004
+[10, 600] Loss: 0.00004
+[10, 900] Loss: 0.00004
+Train epoch: 10, Train size: 1029 
+Loss: 0.00004, 	Accuracy: 100.00%
+
+Test size = 181
+Average loss: 0.26312, 	Accuracy: 94.48%
+
+[11, 300] Loss: 0.00004
+Traceback (most recent call last):
+  File "/home/shchetkov/PycharmProjects/task3/ae-cnn/lstm_train.py", line 119, in <module>
+    train_loss_epoch, train_acc_epoch = train(LSTM_model, train_dataloader, epoch, optimizer, criterion)
+  File "/home/shchetkov/PycharmProjects/task3/ae-cnn/lstm_train.py", line 33, in train
+    loss.backward()
+  File "/home/shchetkov/anaconda3/envs/task3_model/lib/python3.8/site-packages/torch/_tensor.py", line 255, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/home/shchetkov/anaconda3/envs/task3_model/lib/python3.8/site-packages/torch/autograd/__init__.py", line 147, in backward
+    Variable._execution_engine.run_backward(
+KeyboardInterrupt
+
+Process finished with exit code 130 (interrupted by signal 2: SIGINT)
+
